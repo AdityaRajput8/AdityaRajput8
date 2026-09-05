@@ -16,7 +16,7 @@
 
 *Comfortable with data-science oriented environments*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems+from+scratch;Event-driven+microservices+%2B+Agentic+RAG+pipelines;LangGraph+%7C+Qdrant+%7C+Kafka+%7C+Redis+Semantic+Cache;200%2B+LeetCode+%7C+Shipped+%26+Deployed+%E2%9C%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems+from+scratch;Event-driven+microservices+%2B+Agentic+RAG+pipelines;LangGraph+%7C+Qdrant+%7C+Kafka+%7C+Redis+Semantic+Cache;150%2B+LeetCode+%7C+Shipped+%26+Deployed+%E2%9C%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -291,7 +291,7 @@ INVESTOR DATA (Google Sheets CRM)
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityaraj4484-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adityaraj4484)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Aditya_Raj4484/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Aditya_Raj4484/)
 [![Email](https://img.shields.io/badge/Email-aditya48884@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:aditya48884@gmail.com)
 
 ```
