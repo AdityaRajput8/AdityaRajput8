@@ -2,12 +2,23 @@
 <div align="center">
 
 ```
-██████╗ ██████╗ ██╗██████╗  ██████╗ ██████╗ ███████╗
-██╔════╝ ██╔══██╗██║██╔══██╗██╔═══██╗██╔══██╗██╔════╝
-██║  ███╗██████╔╝██║██║  ██║██║   ██║██████╔╝███████╗
-██║   ██║██╔══██╗██║██║  ██║██║   ██║██╔═══╝ ╚════██║
-╚██████╔╝██║  ██║██║██████╔╝╚██████╔╝██║     ███████║
- ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚═╝     ╚══════╝
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ whoami                                                      │
+│   > ADITYA RAJ                                                  │
+│                                                                 │
+│   $ cat role.config                                             │
+│   > GenAI Engineer // AI Engineer // Backend Engineer           │
+│   > Comfortable with data-science oriented environments         │
+│                                                                 │
+│   $ ./status.sh                                                 │
+│   > [✓] Production systems shipped & deployed                   │
+│   > [✓] Event-driven microservices · Agentic RAG pipelines      │
+│   > [✓] LangGraph | Qdrant | Kafka | Redis Semantic Cache       │
+│   > [✓] 150+ LeetCode problems solved                           │
+│                                                                 │
+│   $ _                                                           │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ### `SYSTEM_INIT: ADITYA_RAJ`
