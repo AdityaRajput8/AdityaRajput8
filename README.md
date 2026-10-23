@@ -15,7 +15,7 @@
 │   > [✓] Production systems shipped & deployed                   │
 │   > [✓] Event-driven microservices · Agentic RAG pipelines      │
 │   > [✓] LangGraph | Qdrant | Kafka | Redis Semantic Cache       │
-│   > [✓] 150+ LeetCode problems solved                           │
+│   > [✓] n+ LeetCode problems solved                           │
 │                                                                 │
 │   $ _                                                           │
 └─────────────────────────────────────────────────────────────────┘
